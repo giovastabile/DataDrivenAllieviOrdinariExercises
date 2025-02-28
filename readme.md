@@ -14,4 +14,6 @@ This is the exercise material that comes with the part on "METODI DI ORDINE E RI
 
 [Tutorial 7](https://colab.research.google.com/github/giovastabile/DataDrivenAllieviOrdinariExercises/blob/master/LESSON_5/AS_example.ipynb)
 
+[SVD Image Example](https://colab.research.google.com/github/giovastabile/DataDrivenAllieviOrdinariExercises/blob/master/LESSON_1/image.ipynb)
+
 
