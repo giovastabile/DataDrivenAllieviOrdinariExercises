@@ -16,4 +16,8 @@ This is the exercise material that comes with the part on "METODI DI ORDINE E RI
 
 [Extra - SVD Image Example](https://colab.research.google.com/github/giovastabile/DataDrivenAllieviOrdinariExercises/blob/master/LESSON_1/image.ipynb)
 
+[Extra - Play with EZyRB](https://colab.research.google.com/github/giovastabile/DataDrivenAllieviOrdinariExercises/blob/master/LESSON_3/ezyrb_tut_2.ipynb)
+
+[Extra - Play with multivariate Distributions](https://colab.research.google.com/github/giovastabile/DataDrivenAllieviOrdinariExercises/blob/master/LESSON_3/multivariate.ipynb)
+
 
