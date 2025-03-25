@@ -16,6 +16,8 @@ This is the exercise material that comes with the part on "METODI DI ORDINE E RI
 
 [Tutorial 8 - RB Method Example](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/01_thermal_block/tutorial_thermal_block.ipynb)
 
+[Tutorial 9 - EIM Example](https://colab.research.google.com/github/RBniCS/RBniCS/blob/master/tutorials/05_gaussian/tutorial_gaussian_eim.ipynb)
+
 [Extra - SVD Image Example](https://colab.research.google.com/github/giovastabile/DataDrivenAllieviOrdinariExercises/blob/master/LESSON_1/image.ipynb)
 
 [Extra - Play with EZyRB](https://colab.research.google.com/github/giovastabile/DataDrivenAllieviOrdinariExercises/blob/master/LESSON_3/ezyrb_tut_2.ipynb)
